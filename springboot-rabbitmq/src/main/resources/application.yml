@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springboot-demo
+  rabbitmq:
+    host: 49.235.158.191
+    port: 5672
+    username: admin
+    password: admin123
